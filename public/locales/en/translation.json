@@ -1,0 +1,15 @@
+{
+    "form": {
+      "title": "Create a new item",
+      "placeholders": {
+        "name": "Enter the name",
+        "description": "Enter the description"
+      },
+      "errors": {
+        "required": "This field is required",
+        "passwordMin": "Password is too short, please try again",
+        "passwordMax": "Password is too long, please try again"        
+      }
+    }
+  }
+  

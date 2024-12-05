@@ -1,0 +1,15 @@
+{
+    "form": {
+      "title": "Crear un nuevo elemento",
+      "placeholders": {
+        "name": "Ingrese el nombre",
+        "description": "Ingrese la descripción"
+      },
+      "errors": {
+        "required": "Este campo es obligatorio",
+        "passwordMin": "Contraseña incorrecta, por favor, inténtelo de nuevo",
+        "passwordMax": "Contraseña incorrecta, por favor, inténtelo de nuevo"
+      }
+    }
+  }
+  
